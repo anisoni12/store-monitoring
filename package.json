@@ -1,0 +1,23 @@
+{
+  "name": "anish_08272025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "moment-timezone": "^0.6.0",
+    "mongoose": "^8.17.2",
+    "uuid": "^11.1.0"
+  }
+}
